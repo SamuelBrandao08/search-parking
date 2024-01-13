@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"local": "Praça do Leão",
+		"ocuped": false
+	},
+	{
+		"id": 2,
+		"local": "Praça do Leão",
+		"ocuped": false
+	},
+	{
+		"id": 3,
+		"local": "Rua A",
+		"ocuped": false
+	},
+	{
+		"id": 4,
+		"local": "Rua A",
+		"ocuped": false
+	},
+	{
+		"id": 5,
+		"local": "Rua B",
+		"ocuped": false
+	},
+	{
+		"id": 6,
+		"local": "Rua B",
+		"ocuped": false
+	}
+]
